@@ -18,3 +18,6 @@ Subjects covered here are divided into 8 sections:
 7. Algorithms & Data Structures
 8. Optimization
 
+
+This repository is in correspondence to John Krohn's lecture series : "Linear Algebra for ML" 
+
